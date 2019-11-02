@@ -4,7 +4,7 @@ This is a barebones proof of concept multi-user group chat using java sockets.
 I created this just as a project to push my skills in Java programming. 
 
 # Having trouble with the server when you close the client?
-- Sometimes the server doesnt understand that the client has exited, so to exit correctly type "logout" in the client.
+- Sometimes the server doesnt understand that the client has exited when you click the X button on the client, so to exit correctly type "logout" in the client.
 
 ![](Capture.PNG)
 
