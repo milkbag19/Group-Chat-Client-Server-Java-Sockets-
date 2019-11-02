@@ -11,4 +11,4 @@ I created this just as a project to push my skills in Java programming.
 
 
 # Want to know what ip the server is using? 
-- The person running the server can go to https://whatismyipaddress.com to find the IP.
+- The person running the server can go to https://whatismyipaddress.com to find their public IP address.
